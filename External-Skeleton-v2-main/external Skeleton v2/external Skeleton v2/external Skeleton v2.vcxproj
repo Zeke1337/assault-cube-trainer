@@ -128,12 +128,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="entry.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="functions.cpp" />
     <ClCompile Include="mem.cpp" />
     <ClCompile Include="proc.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="entity.h" />
+    <ClInclude Include="functions.h" />
     <ClInclude Include="mem.h" />
     <ClInclude Include="proc.h" />
   </ItemGroup>

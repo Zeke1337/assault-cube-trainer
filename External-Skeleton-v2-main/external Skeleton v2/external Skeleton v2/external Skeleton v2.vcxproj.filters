@@ -15,9 +15,12 @@
     <Filter Include="proc">
       <UniqueIdentifier>{da4c9e44-857c-425e-ad24-d404df62d1a1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="functions">
+      <UniqueIdentifier>{c17bfe62-ea70-4584-bdea-7c8ac0607dc0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="entry.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
     <ClCompile Include="proc.cpp">
@@ -25,6 +28,9 @@
     </ClCompile>
     <ClCompile Include="mem.cpp">
       <Filter>mem</Filter>
+    </ClCompile>
+    <ClCompile Include="functions.cpp">
+      <Filter>functions</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -36,6 +42,9 @@
     </ClInclude>
     <ClInclude Include="entity.h">
       <Filter>mem</Filter>
+    </ClInclude>
+    <ClInclude Include="functions.h">
+      <Filter>functions</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
