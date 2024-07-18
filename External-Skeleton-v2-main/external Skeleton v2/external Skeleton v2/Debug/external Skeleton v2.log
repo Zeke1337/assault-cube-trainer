@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Das Zwischenverzeichnis (Debug\) enthält freigegebene Dateien aus einem anderen Projekt (external Skeleton v2.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  functions.cpp
+  main.cpp
+  Code wird generiert...
+  external Skeleton v2.vcxproj -> C:\Users\ashura\Documents\c++\External-Skeleton-v2-main\external Skeleton v2\Debug\assaultcube_trainer.exe
